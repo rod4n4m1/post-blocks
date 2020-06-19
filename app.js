@@ -35,7 +35,12 @@ const MessageBlock = [
       "type": "mrkdwn",
       "text": "Let me send an image as well:"
     }
-  }
+  },
+  {
+		"type": "image",
+		"image_url": "https://raw.githubusercontent.com/rod4n4m1/post-blocks/master/ibm-cloud.png",
+		"alt_text": "inspiration"
+	}
 ];
 
 (async () => {
