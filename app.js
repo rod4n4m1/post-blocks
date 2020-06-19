@@ -33,7 +33,7 @@ const MessageBlock = [
     "type": "section",
     "text": {
       "type": "mrkdwn",
-      "text": "But before you can do all these amazing things, we need you to connect your calendar to App. Simply click the button below:"
+      "text": "Let me send an image as well:"
     }
   }
 ];
